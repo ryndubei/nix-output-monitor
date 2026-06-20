@@ -33,6 +33,6 @@ mkDerivation {
   ];
   homepage = "https://code.maralorn.de/maralorn/nix-output-monitor";
   description = "Processes output of Nix commands to show helpful and pretty information";
-  license = lib.meta.getLicenseFromSpdxId "EUPL-1.2";
+  license = lib.licensesSpdx."EUPL-1.2";
   mainProgram = "nom";
 }

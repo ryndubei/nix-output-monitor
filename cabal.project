@@ -1,0 +1,7 @@
+packages:
+    nix-output-monitor.cabal
+
+source-repository-package
+    type: git
+    location: https://github.com/ryndubei/hinotify.git
+    tag: 5d58aeddc54ab082e34a0876ff8fd98ed7b6bbdf
